@@ -1,0 +1,16 @@
+notebook
+pandas
+numpy
+pyxlsb
+duckdb-engine
+ydata_profiling
+featuretools
+dask
+distributed
+scikit-learn
+torch
+tensorflow
+MiniSom
+xgboost
+seaborn
+matplotlib
